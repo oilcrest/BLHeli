@@ -5,11 +5,12 @@
 You can find BLHeliSuite32 here:
 https://github.com/bitdump/BLHeli/releases
 
-or here:  
-https://www.mediafire.com/folder/dx6kfaasyo24l/BLHeliSuite  
+or here: https://www.mediafire.com/folder/dx6kfaasyo24l/BLHeliSuite  
 
 
 ## BLHeli\_32 has been shut down
 
-Due to the war in Ukraine and export regulations imposed as a consequence of that, BLHeli\_32 was shut down in May 2024. No Licenses have been issued after that.
+Due to the war in Ukraine and export regulations imposed as a consequence of that, BLHeli\_32 was shut down in May 2024.
+
+No Licenses have been issued after that.
 
